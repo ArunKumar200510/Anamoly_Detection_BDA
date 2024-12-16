@@ -1,4 +1,3 @@
-Here’s a detailed **README.md** file for your **Anomaly Detection BDA** project, with catchy content, proper structure, and stickers/badges for a professional look.
 
 ---
 
