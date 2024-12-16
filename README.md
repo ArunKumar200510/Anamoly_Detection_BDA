@@ -84,10 +84,7 @@ Check the terminal for anomaly reports and `Matplotlib` visualizations.
 
 ## 🔍 **Sample Results**  
 
-- **Anomaly Plot Example**:  
-<p align="center">
-  <img src="https://via.placeholder.com/500x300?text=Sample+Anomaly+Plot" alt="Anomaly Plot Example"/>
-</p>
+![image](https://github.com/user-attachments/assets/f7c1df0e-4fa3-42b0-a2d0-a0b4616e8961)
 
 - **Output Log**:  
 ```
